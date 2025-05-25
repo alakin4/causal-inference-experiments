@@ -1,10 +1,5 @@
-# Alan's Python Project Template
-This repository serves as a boilerplate for Python projects, adhering to best practices in project structure, dependency management, testing, and continuous integration.
-
-> This template can be used to inform you of where the most important pieces should be and
-how to keep things organized. For the most part, the template follows the [Python
-Packaging Guide](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
-which is intended to be followed by the larger community.
+# Causal Inference and Experiments
+Notes, code, and notebooks for causal inference and design of experiments (e.g, RCT and OCE)
 
 ## Project Structure
 
