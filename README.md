@@ -45,8 +45,8 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/alakin4/python-template.git
-   cd python-template
+   git clone https://github.com/alakin4/causal-inference-experiments.git
+   cd causal-inference-experiments
 
 > To have a different project name, it is better to start the project from github and select this as a template.
 
